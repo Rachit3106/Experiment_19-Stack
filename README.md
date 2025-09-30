@@ -1,24 +1,11 @@
-# 📦 Queue and Stack in C++
+# 📦 Stack in C++
 
 ## 🎯 Aim  
-To study and implement **Queue** and **Stack** operations in C++ using arrays, and to understand their differences in terms of memory allocation, order of processing, and efficiency.
+To study and implement **Stack** operations in C++ using arrays, and to understand their differences in terms of memory allocation, order of processing, and efficiency.
 
 ---
 
 ## 📚 Theory  
-
-### Queue  
-A **Queue** is a linear data structure that follows the **FIFO (First In, First Out)** principle. The element inserted first is the one removed first.  
-
-- **Front** → points to the first element.  
-- **Rear** → points to the last element.  
-
-**Characteristics:**  
-- FIFO order  
-- Insertion at rear, deletion at front  
-- Overflow when full, underflow when empty  
-
----
 
 ### Stack  
 A **Stack** is a linear data structure that follows the **LIFO (Last In, First Out)** principle. The element inserted last is the one removed first.  
